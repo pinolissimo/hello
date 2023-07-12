@@ -1,0 +1,12 @@
+.App {
+  height: 600px;
+  min-width: 800px;
+  font-family: sans-serif;
+  text-align: center;
+  font-size: 2em;
+  color: aliceblue;
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url("https://images.prismic.io/barnebys/2388622a-3286-4522-946c-965a30f52320_Cover1.jpg?w=1200&h=600&fit=crop&crop=faces&auto=format%2Ccompress&cs=tinysrgb");
+}
